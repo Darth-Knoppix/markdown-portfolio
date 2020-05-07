@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Profile picture of Seth Corker](https://avatars2.githubusercontent.com/u/2019236?s=460&u=0cd9b779b7b0340c9df26343343c56bcafedd88a&v=4)
