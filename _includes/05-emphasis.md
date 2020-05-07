@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Software Engineer who likes to write code but *really* likes frontend code. I *love* **React** and building things with technology.
