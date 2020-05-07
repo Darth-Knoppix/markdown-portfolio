@@ -1,0 +1,2 @@
+- [GitHub](https://github.com/Darth-Knoppix)
+- [Benevolent Bytes Blog](https://blog.sethcorker.com)
