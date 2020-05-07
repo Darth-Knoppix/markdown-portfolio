@@ -1,0 +1,3 @@
+- solving problems
+- learning new things
+- getting lost in sci-fi 
