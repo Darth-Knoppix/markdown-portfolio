@@ -1,2 +1,3 @@
 # 👋 I'm Seth Corker
-## Software Engineer at [Zego in London](https://www.zego.com/), previously at [EndGame in New Zealand](https://www.end-game.com/)
+## Software Engineer at [Zego in London](https://www.zego.com/)
+_previously at [EndGame in New Zealand](https://www.end-game.com/)_
